@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\C\u002B\u002B\\XBN.RectangleArea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D16A1-B960-491B-AE96-C7EEF19416AA}|XBN.RectangleArea\\XBN.RectangleArea.vcxproj|C:\\Projects\\C\u002B\u002B\\XBN.RectangleArea\\XBN.RectangleArea\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C62D16A1-B960-491B-AE96-C7EEF19416AA}|XBN.RectangleArea\\XBN.RectangleArea.vcxproj|solutionrelative:XBN.RectangleArea\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Projects\\C\u002B\u002B\\XBN.RectangleArea\\XBN.RectangleArea\\Main.cpp",
+              "RelativeDocumentMoniker": "XBN.RectangleArea\\Main.cpp",
+              "ToolTip": "C:\\Projects\\C\u002B\u002B\\XBN.RectangleArea\\XBN.RectangleArea\\Main.cpp",
+              "RelativeToolTip": "XBN.RectangleArea\\Main.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T21:53:14.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

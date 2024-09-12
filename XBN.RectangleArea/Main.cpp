@@ -3,10 +3,6 @@
 #include <iostream>
 #include <conio.h>
 
-int rectangleLength;
-int rectangleWidth;
-int rectangleArea;
-
 int GetLengthFromUser() {
 	int length;
 	std::cout << "Please enter the length of the rectangle:\n";
@@ -30,13 +26,13 @@ int CalculateArea(int length, int width) {
 
 void DisplayArea(int area) {
 	std::cout << "\nThe area of the rectangle is: ";
-	std::cout << rectangleArea;
+	std::cout << area;
 }
 
 int main() {
-	rectangleLength = GetLengthFromUser();
-	rectangleWidth = GetWidthFromUser();
-	rectangleArea = CalculateArea(rectangleLength, rectangleWidth);
+	int rectangleLength = GetLengthFromUser();
+	int rectangleWidth = GetWidthFromUser();
+	int rectangleArea = CalculateArea(rectangleLength, rectangleWidth);
 	DisplayArea(rectangleArea);
 	(void)_getch();
 	return 0;
